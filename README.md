@@ -1,2 +1,2 @@
 # MckinseyDataAnalysis
-yes
+The EDA for the Case Comp
